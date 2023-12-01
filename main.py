@@ -55,3 +55,4 @@ if __name__ == "__main__":
                 pdf.multi_cell(0, 10, paragraph, ln=True)
 
     pdf.output('pdf_1_sortedCV.pdf')
+    
